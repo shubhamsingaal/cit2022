@@ -1,0 +1,52 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+}
+@import url("https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap");
+
+body {
+  background-image: url("cit pc 2 bg-01.png");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Anonymous Pro", monospace;
+  
+}
+
+
+
+.heading {
+  position: relative;
+}
+
+.heading h1 {
+  color: rgb(0, 118, 203);
+  font-size: 15rem;
+  position: absolute;
+  top: 177px;
+  left: 129px;
+}
+
+.heading p {
+  color: rgb(0, 118, 203);
+  font-size: 20px;
+  position: relative;
+  top: 410px;
+  left: 174px;
+}
+
+.heading button {
+  color: rgb(0, 191, 255);
+  font-size: 20px;
+  position: relative;
+  top: 415px;
+  left: 271px;
+  border-radius: 50px;
+  font-size: 40px;
+  padding: 11px;
+  background-color:rgb(0, 118, 203);;
+  border: 2px solid rgb(21, 122, 255);
+  opacity: 35%;
+}
